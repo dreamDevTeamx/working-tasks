@@ -3,3 +3,4 @@
 2) Сергей https://github.com/Erghel
 3) Анна https://github.com/NitaLewska
 4) Федя https://github.com/fpetrakov
+5) Тагир https://github.com/Isanbirdin
